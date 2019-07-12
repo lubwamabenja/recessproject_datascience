@@ -1,1 +1,2 @@
 # recessproject_datascience
+Stock market prediction is a serious challenge for investors and corporate stockholders to forecast the daily behavior of stock market which helps them to invest with more confidence by taking risks and fluctuations into consideration. In this paper, by applying linear regression for forecasting behavior of APPLE Inc. data set, we prove that our proposed method is best to compare the other regression technique method and the stockholders can invest confidentially based on that.
